@@ -3,7 +3,7 @@
  # @brief Makefile to build ex3
  #
  # @date Agust 03, 2018
- # @athur Azam
+ # 
  ##
 ##**********************************************************************#
  # $@ contains name of target in a rule
