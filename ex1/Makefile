@@ -5,6 +5,6 @@
  # @dated 02-08-2018
  #
 
-CFLAG =- Wall	-g
+CFLAG = -Wall	-g
 clean:
 	rm	-f ex1
