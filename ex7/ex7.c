@@ -1,6 +1,6 @@
 /**
  * @file ex7.c
- * @brief intro of c variables and typesw
+ * @brief intro of c variables and types
  * 
  * @date Agust 04, 2018
  *
