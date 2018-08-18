@@ -129,7 +129,7 @@ int main(int argc, char *argv[])
  		numbers[i] = atoi(inputs[i]);
     }
 
- 	test_sorting(a count, sorted_order);
+ 	test_sorting(numbers, count, sorted_order);
  	test_sorting(numbers, count, reverse_order);
  	test_sorting(numbers, count, strange_order);
 
